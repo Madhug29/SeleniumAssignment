@@ -25,6 +25,8 @@ Signup.java: Automates the signup flow.
 ##TestNg.xml
 This is XML for Testing the succesful and unsuccessful Login using TestNG.
 
+This is index.html - file:///Users/apple/Documents/Eclipse/AutTesting/Assignment/test-output/index.html
+
 ----
 #Assumptions:
 The valid credentials for login (mg1231@gmail.com and Mg1231@2901) are assumed to exist in the application's user database.
